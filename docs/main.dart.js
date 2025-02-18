@@ -61743,7 +61743,7 @@ A.a_7.prototype={
 $0(){var s=0,r=A.I(t.H),q=this
 var $async$$0=A.J(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(q.a.ji("https://www.facebook.com/share/15xN9tD8QM/?mibextid=qi2Omg"),$async$$0)
+return A.S(q.a.ji("https://www.facebook.com/profile.php?id=61573007951873"),$async$$0)
 case 2:return A.G(null,r)}})
 return A.H($async$$0,r)},
 $S:14}
@@ -61824,7 +61824,7 @@ o===$&&A.a()
 return new A.GB(B.N7,new A.tp(r,B.zX,new A.aC(p,B.vi,m,0.028,24,m),B.zp,o,m),k,i,j,new A.UU(s,l,q,!0),B.iO,m)}}
 A.Gl.prototype={
 N(a){var s=null,r=this.c,q=t.D
-return A.a46(B.bo,A.b([new A.br(700,s,new A.Av(1.7777777777777777,A.kL(B.bq,A.b([new A.Bf(A.eb(15),new A.wO(r,s),s),A.cq(s,s,B.q,s,s,new A.d4(s,s,A.rd(B.b5,5),A.eb(15),s,s,B.ae),s,s,s,s,s,s,s),new A.HT(r,s)],q),B.a3,B.be),s),s),new A.br(1100,s,A.cR(A.b([new A.aC("Como a Planum Vitin pode transformar seu relacionamento?",B.bg,B.aq,0.04,32,s),B.i0,A.a46(B.cs,A.b([A.cn(A.b([B.as,B.hZ,A.dk(new A.aC("Autoconhecimento que fortalece la\xe7os: Descubra como compreender a si mesmo pode melhorar suas rela\xe7\xf5es.",B.i9,B.aq,0.035,24,s),1)],q),B.x,B.y,B.t),A.cn(A.b([B.as,B.hZ,A.dk(new A.aC("Solu\xe7\xe3o na raiz dos problemas: Identifique as verdadeiras causas dos conflitos e resolva-as de forma eficaz.",B.i9,B.aq,0.035,24,s),1)],q),B.x,B.y,B.t),A.cn(A.b([B.as,B.hZ,A.dk(new A.aC("M\xe9todo testado e comprovado: Estrat\xe9gias pr\xe1ticas para melhorar sua vida amorosa e emocional (t\xe9cnicas terap\xeauticas autoaplic\xe1veis).",B.i9,B.aq,0.035,24,s),1)],q),B.x,B.y,B.t)],q),B.ds,B.cs,24,15),new A.jR(this.d,"Quero garantir minha vaga",B.zf,B.b5,s)],q),B.x,B.b9,B.t),s)],q),B.vz,B.bo,0,20)}}
+return A.a46(B.bo,A.b([new A.br(700,s,new A.Av(1.7777777777777777,A.kL(B.bq,A.b([new A.Bf(A.eb(15),new A.wO(r,s),s),A.cq(s,s,B.q,s,s,new A.d4(s,s,A.rd(B.b5,5),A.eb(15),s,s,B.ae),s,s,s,s,s,s,s),new A.HT(r,s)],q),B.a3,B.be),s),s),new A.br(1100,s,A.cR(A.b([new A.aC("Como a Planum Vitin pode transformar seu relacionamento?",B.bg,B.aq,0.04,32,s),B.i0,A.a46(B.cs,A.b([A.cn(A.b([B.as,B.hZ,A.dk(new A.aC("Autoconhecimento que fortalece la\xe7os: Descubra como compreender a si mesmo pode melhorar suas rela\xe7\xf5es.",B.i9,B.aq,0.035,24,s),1)],q),B.x,B.y,B.t),A.cn(A.b([B.as,B.hZ,A.dk(new A.aC("Solu\xe7\xe3o na raiz dos problemas: Identifique as verdadeiras causas dos conflitos e resolva-as de forma eficaz.",B.i9,B.aq,0.035,24,s),1)],q),B.x,B.y,B.t),A.cn(A.b([B.as,B.hZ,A.dk(new A.aC("M\xe9todo testado e comprovado: Estrat\xe9gias pr\xe1ticas para melhorar sua vida amorosa e emocional (t\xe9cnicas terap\xeauticas autoaplic\xe1veis).",B.i9,B.aq,0.035,24,s),1)],q),B.x,B.y,B.t)],q),B.ds,B.cs,24,15),new A.jR(this.d,"Quero garantir minha vaga",B.zf,B.b5,s)],q),B.x,B.b9,B.t),s)],q),B.vz,B.bo,50,20)}}
 A.HT.prototype={
 N(a){var s=null,r=this.c.a.f?B.aQ:B.xq
 return A.kL(B.bq,A.b([new A.qZ(r,B.jz,B.a5,s),A.oh(s,s,B.ao,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.a5z(this),s,s,s)],t.D),B.a3,B.be)}}
