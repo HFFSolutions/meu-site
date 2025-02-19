@@ -32,6 +32,7 @@
 
   <title>Fundamentos de um relacionamento</title>
   <link rel="manifest" href="manifest.json">
+
   <script>
     !function (f, b, e, v, n, t, s) {
       if (f.fbq) return; n = f.fbq = function () {
@@ -48,6 +49,12 @@
     fbq('track', 'PageView');
   </script>
 
+  <script>
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault(); // Impede a exibição do prompt de instalação
+      console.log('Instalação bloqueada');
+    });
+  </script>
 </head>
 
 <body>
