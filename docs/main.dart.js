@@ -63665,7 +63665,7 @@ r=A.aD(a,B.t,r).w.a.a*q>=p?p:A.aD(a,B.t,r).w.a.a*q
 return A.au7(s.c,7,B.ib,!0,s.d.a1J(r),s.e)}}
 A.Ej.prototype={
 O(a){var s=null
-return A.oP("assets/logobranco.png",B.Q,s,s,s,s,A.aD(a,B.t,t.w).w.a.a<=700?45:75)}}
+return A.oP("assets/logobranco.png",B.Q,s,s,s,s,A.aD(a,B.t,t.w).w.a.a<=700?75:110)}}
 A.Fl.prototype={
 jK(a){return this.RJ(a)},
 RJ(a){var s=0,r=A.K(t.H),q
@@ -63695,7 +63695,7 @@ f=A.aD(a,B.t,i).w
 p=A.oP("assets/fundo.png",B.Q,B.iO,j,j,j,j)
 o=A.aD(a,B.t,i).w
 n=A.aD(a,B.t,i).w
-m=A.dK(j,new A.bm("Programa de sess\xf5es de Aconselhamento e video aulas",B.ie,j,0.035,18,j),B.w,j,j,new A.dk(B.cR,j,A.QH(B.c6,1),A.hN(16),j,j,B.ao),j,j,B.zk,B.jM,j,j,j)
+m=A.dK(j,new A.bm("Programa de Sess\xf5es de Aconselhamento e video aulas",B.ie,j,0.035,18,j),B.w,j,j,new A.dk(B.cR,j,A.QH(B.c6,1),A.hN(16),j,j,B.ao),j,j,B.zk,B.jM,j,j,j)
 i=A.pU(j,j,j,j,j,j,j,j,j,j,j,A.aD(a,B.t,i).w.a.a*0.055>=64?48:A.aD(a,B.t,i).w.a.a*0.055,j,j,B.e4,j,j,!0,j,j,j,j,j,j,j,j)
 l=A.ax(["bold",new A.H2(B.L4)],t.N,t.M4)
 return new A.bt(j,h.a.b,A.dJ(A.c([g,new A.bt(j,r.a.b*0.9,A.l_(B.bx,A.c([new A.bt(s.a.a,f.a.b*0.9,p,j),new A.dt(new A.aN(o.a.a*0.05,n.a.b*0.07,0,0),A.dJ(A.c([m,new A.x0("<bold>NEXT STEP EXPERIENCE",i,l,j),B.vi,new A.bm("Transforme sua vis\xe3o sobre\nrelacionamentos\ne construa conex\xf5es verdadeiras",B.ig,j,0.04,28,j),B.vi,A.QI(k.c,"Comece agora"),B.Ig],q),B.av,B.A,B.z),j)],q),B.W,B.bm),j)],q),B.F,B.A,B.z),j)}}
@@ -63732,7 +63732,7 @@ q=A.aD(a,B.t,q).w.a.a>=500?50:25
 return A.dJ(A.c([new A.bm("Nossos Especialistas",B.b8,B.at,0.1,64,r),B.vg,A.a58(B.bv,A.c([new A.bt(p,r,n,r),new A.bt(o,r,A.dF(A.c([s,new A.bt(q,r,r,r),A.dJ(A.c([new A.bm("Tays Slavieiro",B.b8,B.a4,0.06,48,r),new A.bm("Psic\xf3loga Cl\xednica e\nMediadora Familiar h\xe1 17 anos",B.ie,B.a4,0.035,32,r),new A.bm("ajuda casais a restaurarem\nconex\xf5es saud\xe1veis.",B.id,B.a4,0.03,24,r)],m),B.av,B.A,B.z)],m),B.F,B.A,B.z),this.a)],m),B.dy,B.bv,50,0)],m),B.bF,B.A,B.z)}}
 A.Fp.prototype={
 O(a){var s=null,r=t.w,q=A.aD(a,B.t,r).w.a.a<=1000?700:A.aD(a,B.t,r).w.a.a*0.4,p=A.hN(24),o=A.QH(B.c6,1),n=A.hN(16),m=t.E
-q=A.dK(s,A.dJ(A.c([A.dK(s,new A.bm("Plano Ouro",B.dw,s,0.03,28,s),B.w,s,s,new A.dk(B.cO,s,A.QH(B.c6,1),n,s,s,B.ao),s,s,B.zi,B.jM,s,s,s),new A.bm("NEXT STEP\nEXPERIENCE",B.dw,B.at,0.045,42,s),new A.bm("R$ 1270",B.aS,s,0.043,40,s),new A.bm("parcelamento em 12x",B.aS,s,0.023,24,s),B.vf,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("V\xeddeo aulas",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("Download dispon\xedvel das aulas",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("Certificado de conclus\xe3o",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("1 sess\xe3o terap\xeautica individual de aprox. 1h30",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("1 sess\xe3o individual para elabora\xe7\xe3o do Projeto Next Step",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("Aplica\xe7\xe3o de testes de personalidade.",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("4 aulas quinzenais online e ao vivo, para estudos de caso e esclarecimento de casos reais",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),new A.dt(B.zl,A.QI(new A.a_S(),"Adquirir Plano Ouro"),s),new A.bm("* Fale conosco pelo watsapp para verificar a disponibilidade de BONUS e Bolsas do programa",B.aS,B.at,0.013,16,s)],m),B.F,B.A,B.z),B.w,s,s,new A.dk(B.xQ,s,o,p,s,s,B.ao),s,s,s,B.zs,s,s,q)
+q=A.dK(s,A.dJ(A.c([A.dK(s,new A.bm("Plano Ouro",B.dw,s,0.03,28,s),B.w,s,s,new A.dk(B.cO,s,A.QH(B.c6,1),n,s,s,B.ao),s,s,B.zi,B.jM,s,s,s),new A.bm("NEXT STEP\nEXPERIENCE",B.dw,B.at,0.045,42,s),new A.bm("R$ 1.790",B.aS,s,0.043,40,s),new A.bm("parcelamento em 12x",B.aS,s,0.023,24,s),B.vf,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("V\xeddeo aulas",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("Download dispon\xedvel das aulas",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("Certificado de conclus\xe3o",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("1 sess\xe3o terap\xeautica individual de aprox. 1h30",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("1 sess\xe3o individual para elabora\xe7\xe3o do Projeto Next Step",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("Aplica\xe7\xe3o de testes de personalidade.",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),B.cu,A.dF(A.c([B.aK,B.bT,A.eZ(new A.bm("4 aulas quinzenais online e ao vivo, para estudos de caso e esclarecimento de casos reais",B.aS,s,0.035,24,s),1)],m),B.F,B.A,B.z),new A.dt(B.zl,A.QI(new A.a_S(),"Adquirir Plano Ouro"),s),new A.bm("* Fale conosco pelo watsapp para verificar a disponibilidade de BONUS e Bolsas do programa",B.aS,B.at,0.02,16,s)],m),B.F,B.A,B.z),B.w,s,s,new A.dk(B.xQ,s,o,p,s,s,B.ao),s,s,s,B.zs,s,s,q)
 r=A.aD(a,B.t,r).w.a.a<=700?2.6:1.6
 return A.dJ(A.c([new A.bm("Nossos Planos",B.b8,B.at,0.1,64,s),new A.dt(B.zj,A.a58(B.bv,A.c([A.l_(B.bx,A.c([q,A.oP("assets/preco.png",B.wb,s,s,this.d,r,s)],m),B.W,B.bm)],m),B.dy,B.bv,20,50),s)],m),B.bF,B.A,B.z)}}
 A.a_S.prototype={
@@ -68517,7 +68517,7 @@ B.zh=new A.SF(0,"tonalSpot")
 B.c8=new A.aN(0,0,0,0)
 B.zi=new A.aN(0,0,0,12)
 B.zj=new A.aN(0,0,0,26)
-B.zk=new A.aN(0,0,0,60)
+B.zk=new A.aN(0,0,100,60)
 B.jL=new A.aN(0,16,0,0)
 B.zl=new A.aN(0,32,0,16)
 B.zm=new A.aN(12,0,12,0)
